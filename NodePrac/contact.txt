@@ -1,0 +1,3 @@
+This is the file i have created to understand read file using fs module of node.
+
+Abdullah Ahmad -  9315045845
